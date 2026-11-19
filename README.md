@@ -34,3 +34,5 @@ bcomm bloom file_A.txt file_B.txt
 ## References
 Special thanks to **Peter Scott** for the implementation of the MurmurHash3 algorithm used in this project.
 Original source: [https://github.com/PeterScott/murmur3](https://github.com/PeterScott/murmur3)
+
+This project was made in collaboration with Bora Kısalar https://github.com/borakisalar
